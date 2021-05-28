@@ -1,0 +1,4 @@
+node_modules/
+public/
+.5sg/
+yarn.lock
